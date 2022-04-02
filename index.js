@@ -1,1 +1,1 @@
-//Your Code here
+response=window.prompt ("hello")
